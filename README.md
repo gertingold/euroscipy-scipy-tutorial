@@ -8,6 +8,7 @@ The tutorial requires the following packages on top of a Python 3 installation:
 * scipy
 * matplotlib
 * jupyter
+
 Any recent version of the [Anaconda distribution](https://anaconda.org) should allow to run the Jupyter notebooks used in this tutorial.
 
 Alternatively, you can build a specific environment `euroscipy-scipy-tutorial` for the tutorial by running
