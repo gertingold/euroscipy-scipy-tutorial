@@ -2,6 +2,8 @@
 ## Introduction to Scipy
 ### Tutorial at [EuroSciPy 2019](https://www.euroscipy.org/2019) in Bilbao, September 3, 2019
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gertingold/euroscipy-scipy-tutorial/master?filepath=notebooks)
+
 #### Installation instructions
 The tutorial requires the following packages on top of a Python 3 installation:
 * numpy
