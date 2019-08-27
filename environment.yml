@@ -1,0 +1,6 @@
+name: euroscipy-scipy-tutorial
+dependencies:
+- numpy
+- scipy
+- matplotlib
+- jupyter
